@@ -1,6 +1,10 @@
 fastapi
-uvicorn
+uvicorn[standard]
+gunicorn
 pydantic
 python-dotenv
 python-multipart
 google-generativeai
+supabase
+resend
+razorpay
